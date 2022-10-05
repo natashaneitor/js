@@ -4,6 +4,6 @@ const invertArray = (originalArray)
 
 console.log(number)
 do {
-    console.log(NUMber[NUMber])s
+    console.log(NUMber[NUMber])
     number--
 } while (number >= 0)
